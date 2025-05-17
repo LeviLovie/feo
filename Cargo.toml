@@ -1,0 +1,11 @@
+[package]
+name = "feo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.98"
+macroquad = "0.4.14"
+rhai = "1.21.0"
+tracing = "0.1.41"
+tracing-subscriber = "0.3.19"
